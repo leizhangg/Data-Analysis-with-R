@@ -22,6 +22,19 @@ collectively explain most of the variability in the original set. 从冗余特�
 ## 3. PCA With R
 Dataset: USArrests data set, which is part of the base R package 
 1. **View Data**
+```diff
+# the rows of the dataset
+states = row.names(USArrests)
+states. 
+# the columns of the dataset
+name(USArrests) 
+fix(USArrests)
+ ```
+ Here is the result after run it in R studio
+ 
+3. s
+4. s
+
 
 
 
