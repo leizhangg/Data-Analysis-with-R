@@ -16,8 +16,15 @@
 ## 2. Why PCA
 - When faced with a large set of correlated variables,principal components allow us to summarize this set with a smaller number of representative variables that
 collectively explain most of the variability in the original set. 从冗余特征中提取主要成分，找出数据中的主要成分来代表数据
-- a tool for data visualization; discover if there is an informative way to visualize the data. 数据可视化 
-- data pre-processing before supervised techniques are applied. 数据预先处理
+- a tool for `data visualization`; discover if there is an informative way to visualize the data. 数据可视化 
+- `data pre-processing` before supervised techniques are applied. 数据预先处理
+
+## 3. PCA With R
+Dataset: USArrests data set, which is part of the base R package 
+1. **View Data**
+
+
+
 
   
 
