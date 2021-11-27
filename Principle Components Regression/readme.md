@@ -52,8 +52,12 @@ apply(USArrests, 2, sd)
 # by default, the prcomp()function centers the variables to have mean zero 
 # scale = TRUE means scale the variables to have standard deviation one.
 pr.out = prcomp(USArrests, scale = TRUE)
+names(pr.out)
 summary(pr.out)
 ```
+Output:
+![alt text](https://github.com/leizhangg/Data-Analysis-with-R/blob/main/Principle%20Components%20Regression/img/preOut.png)
+
 
 
 
