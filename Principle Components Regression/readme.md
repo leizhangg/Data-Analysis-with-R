@@ -1,6 +1,6 @@
 
 # Principle Components Analysis in R- PCA 主成分分析
-#### Lei ZHANG
+##### Author: Lei ZHANG
 
 
 ## 1. What PCA does
